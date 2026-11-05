@@ -1,0 +1,9 @@
+{
+  "cloud_url": "http://localhost:8000",
+  "business_id": "sunrise-cafe-id",
+  "device_uuid": "dev_hub_sunrise_edge_01",
+  "device_secret": "local_hub_secret_token_12345",
+  "lan_port": 8080,
+  "sync_interval_seconds": 10,
+  "business_name": "Sunrise Café & Bistro"
+}
